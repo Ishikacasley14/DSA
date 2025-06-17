@@ -7,6 +7,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ishikacasley14/DSA/tree/master/0054-spiral-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishikacasley14/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ishikacasley14/DSA/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
