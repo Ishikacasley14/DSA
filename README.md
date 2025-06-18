@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ishikacasley14/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
@@ -64,10 +65,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
