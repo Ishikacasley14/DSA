@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/Ishikacasley14/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishikacasley14/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ishikacasley14/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Dynamic Programming
 |  |
@@ -70,4 +73,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
