@@ -35,6 +35,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishikacasley14/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ishikacasley14/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +82,9 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
