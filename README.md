@@ -34,6 +34,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Ishikacasley14/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishikacasley14/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ishikacasley14/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -94,4 +95,8 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishikacasley14/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Ishikacasley14/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
