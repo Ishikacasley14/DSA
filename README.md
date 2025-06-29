@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishikacasley14/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
@@ -76,6 +78,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ishikacasley14/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ishikacasley14/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -115,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ishikacasley14/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
 |  |
