@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ishikacasley14/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -111,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishikacasley14/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
