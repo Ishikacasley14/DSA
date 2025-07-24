@@ -3,14 +3,16 @@ public:
     void twoSum(vector<int>& nums, int target, int i, int j,
                 vector<vector<int>>& result) {
         while (i < j) {
-            if (nums[i] + nums[j] < target) {
-                i++;
-            } else if (nums[i] + nums[j] > target) {
+            if (nums[i] + nums[j] > target) {
                 j--;
+            } else if (nums[i] + nums[j] < target) {
+                i++;
             } else {
                 result.push_back({-target, nums[i], nums[j]});
-                while(i < j && nums[i] == nums[i+1]) i++;
-                while(i < j && nums[j] == nums[j-1]) j--;
+                while (i < j && nums[i] == nums[i + 1])
+                    i++;
+                while (i < j && nums[j] == nums[j - 1])
+                    j--;
                 i++;
                 j--;
             }
@@ -21,8 +23,12 @@ public:
         if (n < 3) {
             return {};
         }
+        // sort
         vector<vector<int>> result;
         sort(nums.begin(), nums.end());
+
+        result.clear();
+
         for (int i = 0; i < n; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
