@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ishikacasley14/DSA/tree/master/0054-spiral-matrix) |
@@ -101,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ishikacasley14/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
@@ -159,6 +162,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -172,4 +176,8 @@
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ishikacasley14/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
