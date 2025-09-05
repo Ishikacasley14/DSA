@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishikacasley14/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -108,6 +110,7 @@
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
