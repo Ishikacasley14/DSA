@@ -108,6 +108,7 @@
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishikacasley14/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
