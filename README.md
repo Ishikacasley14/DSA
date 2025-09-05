@@ -177,6 +177,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -186,11 +187,13 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ishikacasley14/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ishikacasley14/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Monotonic Stack
 |  |
@@ -204,4 +207,5 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
