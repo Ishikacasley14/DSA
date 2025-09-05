@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ishikacasley14/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
@@ -37,6 +38,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ishikacasley14/DSA/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -142,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ishikacasley14/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
