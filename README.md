@@ -76,6 +76,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ishikacasley14/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ishikacasley14/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -124,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishikacasley14/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
