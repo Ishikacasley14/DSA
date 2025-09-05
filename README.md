@@ -109,6 +109,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Ishikacasley14/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Ishikacasley14/DSA/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -132,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ishikacasley14/DSA/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
