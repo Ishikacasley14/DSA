@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishikacasley14/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/Ishikacasley14/DSA/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishikacasley14/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishikacasley14/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ishikacasley14/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ishikacasley14/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -85,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishikacasley14/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2689-rearranging-fruits](https://github.com/Ishikacasley14/DSA/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
