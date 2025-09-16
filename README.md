@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishikacasley14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-binary-search](https://github.com/Ishikacasley14/DSA/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ishikacasley14/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/Ishikacasley14/DSA/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishikacasley14/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
