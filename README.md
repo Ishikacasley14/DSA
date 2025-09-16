@@ -24,6 +24,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishikacasley14/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Ishikacasley14/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ishikacasley14/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ishikacasley14/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ishikacasley14/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -61,6 +62,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ishikacasley14/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishikacasley14/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ishikacasley14/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Ishikacasley14/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishikacasley14/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Ishikacasley14/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -185,6 +187,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Ishikacasley14/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,4 +217,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishikacasley14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Ishikacasley14/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
