@@ -239,4 +239,8 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Ishikacasley14/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ishikacasley14/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
