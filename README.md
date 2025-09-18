@@ -97,6 +97,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Ishikacasley14/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/Ishikacasley14/DSA/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
@@ -182,6 +183,7 @@
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishikacasley14/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ishikacasley14/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,8 +233,10 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Ishikacasley14/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Ishikacasley14/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
