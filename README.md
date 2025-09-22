@@ -101,6 +101,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3678-design-task-manager](https://github.com/Ishikacasley14/DSA/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ishikacasley14/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ishikacasley14/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ishikacasley14/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishikacasley14/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ishikacasley14/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishikacasley14/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ishikacasley14/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
