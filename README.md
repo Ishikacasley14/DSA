@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Ishikacasley14/DSA/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/Ishikacasley14/DSA/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ishikacasley14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishikacasley14/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -174,6 +175,7 @@
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishikacasley14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
+| [0165-compare-version-numbers](https://github.com/Ishikacasley14/DSA/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ishikacasley14/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
