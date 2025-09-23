@@ -266,4 +266,5 @@
 | [0620-not-boring-movies](https://github.com/Ishikacasley14/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Ishikacasley14/DSA/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/Ishikacasley14/DSA/tree/master/1179-game-play-analysis-i) |
+| [1827-invalid-tweets](https://github.com/Ishikacasley14/DSA/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
