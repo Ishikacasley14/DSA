@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Ishikacasley14/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishikacasley14/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishikacasley14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ishikacasley14/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ishikacasley14/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ishikacasley14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ishikacasley14/DSA/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishikacasley14/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Ishikacasley14/DSA/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishikacasley14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Ishikacasley14/DSA/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishikacasley14/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
